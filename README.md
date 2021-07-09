@@ -1,5 +1,5 @@
 # artwork
-##TODO and OSPO Artwork
+## TODO and OSPO Artwork
 
 #### OSPOcast logos
 
