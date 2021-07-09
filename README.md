@@ -12,7 +12,6 @@
         <th colspan="2">PNG</th>
         <th colspan="2">SVG</th>
     </tr>
-  
     <tr>
         <th>color</th>
         <td><img src="/other/ambassador/horizontal/color/cncf-ambassador-horizontal-color.png" width="200"></td>
