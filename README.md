@@ -14,23 +14,17 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/ambassador/horizontal/color/cncf-ambassador-horizontal-color.png" width="200"></td>
-        <td><img src="/other/ambassador/stacked/color/cncf-ambassador-stacked-color.png" width="95"></td>
-        <td><img src="/other/ambassador/horizontal/color/cncf-ambassador-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/ambassador/stacked/color/cncf-ambassador-stacked-color.svg" width="95"></td>
+        <td><img src="OSPOcast/OSPOcast-color.png" width="200"></td>
+        <td><img src="OSPOcast/OSPOcast-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/ambassador/horizontal/black/cncf-ambassador-horizontal-black.png" width="200"></td>
-        <td><img src="/other/ambassador/stacked/black/cncf-ambassador-stacked-black.png" width="95"></td>
-        <td><img src="/other/ambassador/horizontal/black/cncf-ambassador-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/ambassador/stacked/black/cncf-ambassador-stacked-black.svg" width="95"></td>
+        <td><img src="OSPOcast/OSPOcast-black.png" width="200"></td>
+        <td><img src="OSPOcast/OSPOcast-black.ssvg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/ambassador/horizontal/white/cncf-ambassador-horizontal-white.png" width="200"></td>
-        <td><img src="/other/ambassador/stacked/white/cncf-ambassador-stacked-white.png" width="95"></td>
-        <td><img src="/other/ambassador/horizontal/white/cncf-ambassador-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/ambassador/stacked/white/cncf-ambassador-stacked-white.svg" width="95"></td>
+        <td><img src="OSPOcast/OSPOcast-white.png" width="200"></td>
+        <td><img src="OSPOcast/OSPOcast-white.svg" width="200"></td>
     </tr>
 </table>
