@@ -5,11 +5,11 @@
 
 <table>
     <tr>
-    	<th colspan="5"></th>
+    	<th colspan="3"></th>
     </tr>
     <tr>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
     </tr>
     <tr>
         <th>color</th>
