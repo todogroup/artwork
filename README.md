@@ -5,9 +5,6 @@
 
 <table>
     <tr>
-    	<th colspan="3"></th>
-    </tr>
-    <tr>
         <th></th>
         <th colspan="1">PNG</th>
         <th colspan="1">SVG</th>
