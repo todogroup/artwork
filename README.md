@@ -87,17 +87,17 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="TODO/TODO-color.png" width="170"></td>
-        <td><img src="TODO/TODO-color.svg" width="170"></td>
+        <td><img src="TODO/todo-color.png" width="170"></td>
+        <td><img src="TODO/todo-color.svg" width="170"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="TODO/TODO-black.png" width="170"></td>
-        <td><img src="TODO/TODO-black.svg" width="170"></td>
+        <td><img src="TODO/todo-black.png" width="170"></td>
+        <td><img src="TODO/todo-black.svg" width="170"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="TODO/TODO-white.png" width="170"></td>
-        <td><img src="TODO/TODO-white.svg" width="170"></td>
+        <td><img src="TODO/todo-white.png" width="170"></td>
+        <td><img src="TODO/todo-white.svg" width="170"></td>
     </tr>
 </table>
