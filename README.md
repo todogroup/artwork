@@ -101,3 +101,28 @@
         <td><img src="TODO/todo-white.svg" width="200"></td>
     </tr>
 </table>
+
+#### TODO / OSPOlogy Mascot
+
+<table>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="Mascot/ospochi-lightcolor.png" width="200"></td>
+        <td><img src="Mascot/ospochi.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td><img src="Mascot/ospochi-dark.png" width="200"></td>
+        <td><img src="Mascot/ospochi.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td><img src="Mascot/ospochi-light.png" width="200"></td>
+        <td><img src="Mascot/ospochi.svg" width="200"></td>
+    </tr>
+</table>
