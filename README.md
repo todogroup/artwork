@@ -96,7 +96,7 @@
         <td><img src="TODO/todo-black.svg" width="200"></td>
     </tr>
     <tr>
-        <th>dark</th>
+        <th>light</th>
         <td><img src="TODO/todo-white.png" width="200"></td>
         <td><img src="TODO/todo-white.svg" width="200"></td>
     </tr>
